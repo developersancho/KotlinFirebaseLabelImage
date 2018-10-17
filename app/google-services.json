@@ -1,0 +1,531 @@
+{
+  "project_info": {
+    "project_number": "1068808254696",
+    "firebase_url": "https://projemuber.firebaseio.com",
+    "project_id": "projemuber",
+    "storage_bucket": "projemuber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068808254696:android:63f525809379f9a9",
+        "android_client_info": {
+          "package_name": "com.developersancho.kotlinmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068808254696-un21bhna52q8gm56bis0pl7eugbptstp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developersancho.kotlinmessenger",
+            "certificate_hash": "1b9b75e67df97af9ce06b5820616161d6f51d83b"
+          }
+        },
+        {
+          "client_id": "1068808254696-ttmh311kviei82n7b4u67kfe4uidsrbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADclpcsJDwzAMZAPlnbqfmto89GprG8Tw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068808254696-ttmh311kviei82n7b4u67kfe4uidsrbo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1068808254696-giq446f86jbvi0u3se69mafqq13g6igp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "developersancho.FirestoreApp",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068808254696:android:54a90bd4c9862538",
+        "android_client_info": {
+          "package_name": "com.sf.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068808254696-kmb5f5adt78lo80bdhf9ne8chkq65uvd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sf.firebaseauth",
+            "certificate_hash": "6277f8f8e4a2df14ec2bcc73448a115d4afa87af"
+          }
+        },
+        {
+          "client_id": "1068808254696-ttmh311kviei82n7b4u67kfe4uidsrbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADclpcsJDwzAMZAPlnbqfmto89GprG8Tw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068808254696-ttmh311kviei82n7b4u67kfe4uidsrbo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1068808254696-giq446f86jbvi0u3se69mafqq13g6igp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "developersancho.FirestoreApp",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068808254696:android:b001d04bb792f973",
+        "android_client_info": {
+          "package_name": "com.sf.orderfoodserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068808254696-7u866bl8q4vl32rv9u4smpqq8p39q4qu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sf.orderfoodserver",
+            "certificate_hash": "6277f8f8e4a2df14ec2bcc73448a115d4afa87af"
+          }
+        },
+        {
+          "client_id": "1068808254696-ttmh311kviei82n7b4u67kfe4uidsrbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADclpcsJDwzAMZAPlnbqfmto89GprG8Tw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068808254696-ttmh311kviei82n7b4u67kfe4uidsrbo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1068808254696-giq446f86jbvi0u3se69mafqq13g6igp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "developersancho.FirestoreApp",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068808254696:android:63ce1d8874bd9d34",
+        "android_client_info": {
+          "package_name": "developersancho.kotlinfirebasefacedetect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068808254696-datgt5tlolp0cqscj089jmsfrqvsfh4s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "developersancho.kotlinfirebasefacedetect",
+            "certificate_hash": "a30a8e791c648cccdd79730c93fccbfac88ccd47"
+          }
+        },
+        {
+          "client_id": "1068808254696-ttmh311kviei82n7b4u67kfe4uidsrbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADclpcsJDwzAMZAPlnbqfmto89GprG8Tw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068808254696-ttmh311kviei82n7b4u67kfe4uidsrbo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1068808254696-giq446f86jbvi0u3se69mafqq13g6igp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "developersancho.FirestoreApp",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068808254696:android:82c1f0b971750313",
+        "android_client_info": {
+          "package_name": "developersancho.uberfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068808254696-rt8etm2u53egf1tmsmoqkim8ca53q62k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "developersancho.uberfit",
+            "certificate_hash": "220c3812452be84e1770fe3c8898ef5190eb280f"
+          }
+        },
+        {
+          "client_id": "1068808254696-ttmh311kviei82n7b4u67kfe4uidsrbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADclpcsJDwzAMZAPlnbqfmto89GprG8Tw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068808254696-ttmh311kviei82n7b4u67kfe4uidsrbo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1068808254696-giq446f86jbvi0u3se69mafqq13g6igp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "developersancho.FirestoreApp",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068808254696:android:f4e2f2ea0e8cb646",
+        "android_client_info": {
+          "package_name": "developersancho.uberriderfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068808254696-t1f81d0selmqe4lsmeg7dj4sb0bbsdmd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "developersancho.uberriderfit",
+            "certificate_hash": "220c3812452be84e1770fe3c8898ef5190eb280f"
+          }
+        },
+        {
+          "client_id": "1068808254696-ttmh311kviei82n7b4u67kfe4uidsrbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADclpcsJDwzAMZAPlnbqfmto89GprG8Tw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068808254696-ttmh311kviei82n7b4u67kfe4uidsrbo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1068808254696-giq446f86jbvi0u3se69mafqq13g6igp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "developersancho.FirestoreApp",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068808254696:android:68d158e655d2fbff",
+        "android_client_info": {
+          "package_name": "devsancho.kotlinfirebaselabelimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068808254696-glfitrhrvj95bqhi2s4s5jc6oco0t9kr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "devsancho.kotlinfirebaselabelimage",
+            "certificate_hash": "a30a8e791c648cccdd79730c93fccbfac88ccd47"
+          }
+        },
+        {
+          "client_id": "1068808254696-ttmh311kviei82n7b4u67kfe4uidsrbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADclpcsJDwzAMZAPlnbqfmto89GprG8Tw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068808254696-ttmh311kviei82n7b4u67kfe4uidsrbo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1068808254696-giq446f86jbvi0u3se69mafqq13g6igp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "developersancho.FirestoreApp",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068808254696:android:dc9900b23c8f7df4",
+        "android_client_info": {
+          "package_name": "net.yanzm.mlkitsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068808254696-upll8o5ofsuk1odtgli0qper18q05imh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.yanzm.mlkitsample",
+            "certificate_hash": "6277f8f8e4a2df14ec2bcc73448a115d4afa87af"
+          }
+        },
+        {
+          "client_id": "1068808254696-ttmh311kviei82n7b4u67kfe4uidsrbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADclpcsJDwzAMZAPlnbqfmto89GprG8Tw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068808254696-ttmh311kviei82n7b4u67kfe4uidsrbo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1068808254696-giq446f86jbvi0u3se69mafqq13g6igp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "developersancho.FirestoreApp",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068808254696:android:32c104a1608f1dae",
+        "android_client_info": {
+          "package_name": "sf.geofencingwithgeofire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068808254696-h6suobv3bs8nqg61j54t33t7s0bfe37b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sf.geofencingwithgeofire",
+            "certificate_hash": "220c3812452be84e1770fe3c8898ef5190eb280f"
+          }
+        },
+        {
+          "client_id": "1068808254696-ttmh311kviei82n7b4u67kfe4uidsrbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADclpcsJDwzAMZAPlnbqfmto89GprG8Tw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068808254696-ttmh311kviei82n7b4u67kfe4uidsrbo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1068808254696-giq446f86jbvi0u3se69mafqq13g6igp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "developersancho.FirestoreApp",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068808254696:android:a4f2d424e176d0f5",
+        "android_client_info": {
+          "package_name": "sf.orderfoodclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068808254696-7g90r9fskjltao3shigudh4p5r5uj01n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sf.orderfoodclient",
+            "certificate_hash": "220c3812452be84e1770fe3c8898ef5190eb280f"
+          }
+        },
+        {
+          "client_id": "1068808254696-ttmh311kviei82n7b4u67kfe4uidsrbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADclpcsJDwzAMZAPlnbqfmto89GprG8Tw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068808254696-ttmh311kviei82n7b4u67kfe4uidsrbo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1068808254696-giq446f86jbvi0u3se69mafqq13g6igp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "developersancho.FirestoreApp",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
